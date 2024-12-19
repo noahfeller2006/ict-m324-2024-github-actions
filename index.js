@@ -8,6 +8,8 @@ console.log(`The ${chalk.greenBright(word1)} is ${chalk.redBright(word2)}.`);
 
 export const sum = (a, b) => a + b;
 
+// some changes in the development branch
+
 // ESLint errors
 /*
 var unusedVar = 1;
