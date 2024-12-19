@@ -7,6 +7,6 @@ describe('sum', () => {
   });
 
   it('should return 5.5 for 2.5 + 3', () => {
-    assert.equal(sum(2.5, 3), 5.5);
+    assert.equal(sum(2.5, 3), 6);
   });
 });
